@@ -50,6 +50,9 @@ Lyra_Leaf_Chlorose/
 - Classes:
   - `saine/` : Healthy leaves
   - `chlorose/` : Visibly chlorotic leaves (yellowing due to iron or nitrogen deficiency)
+  - > 📝 **Note on dataset quality**  
+> Unlike PlantVillage, which contains field photos taken under variable conditions (lighting, background, camera type), this dataset uses **flatbed-scanned leaves** under **controlled lighting and uniform background**.  
+> This ensures **clarity**, **reproducibility**, and a **high signal-to-noise ratio**, making it particularly suitable for **pedagogical uses, diagnostic accuracy, and scientific reproducibility**.
 
 ---
 
