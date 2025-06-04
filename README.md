@@ -100,7 +100,7 @@ MIT License
 Developed by [Jérôme Frasson](https://github.com/Jerome-openclassroom)  
 Contact: jerome.frasson.vsi@gmail.com  
 
-🔗 Related project:
+🔗 Related projects:
 
 - [Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration) – SPAD sensor calibration for estimating chlorophyll density in leaves.
 - [Lyra_LowCost_Soil_Leaf](https://github.com/Jerome-openclassroom/Lyra_LowCost_Soil_Leaf) – Integrated low-cost soil and leaf model for terrestrial primary productivity.
